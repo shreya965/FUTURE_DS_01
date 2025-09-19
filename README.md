@@ -29,5 +29,8 @@ Sales spike during Nov–Dec (holiday effect 🎄)
 
 Avg. order gap = 196 days → chance to improve retention
 
-🛠️ Tools Used: Power BI, Excel
+🛠️ Tools Used: Power BI
 📂 Dataset: Superstore Dataset – Kaggle
+
+
+
